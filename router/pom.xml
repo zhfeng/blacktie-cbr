@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.wildfly.camel</groupId>
         <artifactId>wildfly-camel</artifactId>
-        <version>2.3.0</version>
+        <version>3.1.0</version>
     </parent>
 
     <name>Blacktie :: Camel JMS Router</name>

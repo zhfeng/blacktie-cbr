@@ -32,7 +32,7 @@ fi
 
 # WAIT
 echo "Waiting for the CBR example to deploy"
-cp target/blacktie-camel-router-2.3.0.war $JBOSS_HOME/standalone/deployments/
+cp target/blacktie-camel-router-3.1.0.war $JBOSS_HOME/standalone/deployments/
 sleep 10
 echo "Waited for the CBR example to deploy"
 
